@@ -12,8 +12,4 @@ La repository include diversi file .cpp, ciascuno rappresentante un esercizio nu
  	-	La relazione in formato .pdf consultabile
 	-	Altri file .txt utili. 
 
-Ogni file contiene la risoluzione di un esercizio in C++, utile per comprendere vari concetti fondamentali nell'ambito della Fisica Computazionale. Il comando di compilazione è indicatoa  inizio file.
-
-Requisiti:
-	-	Linguaggio: C++
-	-	Compilatore: G++ (o un altro compilatore compatibile con C++)
+Ogni file contiene la risoluzione di un esercizio in C++, utile per comprendere vari concetti fondamentali nell'ambito della Fisica Computazionale. Il comando di compilazione è indicato a inizio file.
